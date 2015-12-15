@@ -1,4 +1,11 @@
-What happens when you initialize a repository? Why do you need to do it?
+-What happens when you initialize a repository? Why do you need to do it?
 
 This repository becomes a git repository which now has all the git features to keep track 
 on the development of the folder.
+
+
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When one wants to create a new feature off from the main branch but still has a git feature to keep track of the commits history.
+When you are moving on to a new feature. Think of it like a context switching.
+Master branch is the production branch which has production quality and the other branches are the development branches.
+Gives you the ability to switch and work on new features simultaneously. 
